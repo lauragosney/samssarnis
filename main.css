@@ -1,0 +1,108 @@
+
+#social-buttons button  {
+	color: white;
+} 
+
+
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+	margin-top: 20px;
+}
+.btn-twitter:hover {
+  box-shadow: inset 0 0 0 20rem rgba(0, 0, 0, .0625);
+}
+
+
+.btn-facebook {
+	background-color: #4868ac;
+	border-color: #314776;
+	margin-top: 20px;
+}
+
+.btn-facebook:hover {
+  box-shadow: inset 0 0 0 20rem rgba(0, 0, 0, .0625);
+}
+
+.btn-pinterest {
+	background-color: #b62f26;
+	border-color: #b62f26;
+	margin-top: 20px;
+}
+
+.btn-pinterest:hover {
+  box-shadow: inset 0 0 0 20rem rgba(0, 0, 0, .0625);
+}
+
+.jumbotron {
+	min-height: 600px;
+	background-image: url(images/fruit-and-veg.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+
+.jumbotron h1 {
+  	font-family: 'Vast Shadow';
+  	color: white;
+  	margin-bottom: 1em;
+}
+
+
+.jumbotron label {
+	color: white;
+}
+
+
+#mission {
+	margin-top: 40px;
+	color: #ddd;
+	background-color: rgba(32, 35, 41, 0.9);
+	padding-bottom: 40px;
+}
+
+
+#mission h2  {
+	padding-top: 20px;
+	padding-bottom: 20px; 
+}
+
+
+.navbar-inverse {
+	background-color: rgba(32, 35, 41, 0.8);
+}
+
+
+.row {
+	padding-top: 50px;
+}
+
+
+.text-center {
+	text-align: center;
+}
+
+
+p {
+	font-weight: 300;
+} 
+
+
+small {
+	color: rgba(153, 153, 153, 153);
+}
+
+
+.form-inline input[name='email'] {
+	width: 80%;
+}
+
+
+.form-group label[for='email'] {
+	font-size: 20px;
+}
+
+
+
+
